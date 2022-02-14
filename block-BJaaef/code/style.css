@@ -12,8 +12,6 @@ body {
   grid-gap: 1rem;
 }
 .box {
-  /* border: 2px solid #d6bcfa; */
-  /* height: 500px; */
   border-radius: 10px;
   width: 100%;
 }
@@ -25,7 +23,6 @@ h2 {
 }
 .header{
   text-align: center;
-  /* border: 2px solid black; */
   border-radius: 8px;
   background-color: rgb(56, 100, 243);
   color: whitesmoke;
@@ -39,7 +36,6 @@ h2 {
 }
 article{
   width:30%;
-  /* height: 15rem; */
   box-shadow: 0 0 5px 1px;
   padding: 0.5rem;
   margin: .5rem;
